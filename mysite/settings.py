@@ -25,7 +25,7 @@ SECRET_KEY = '45ahuxwuslnf!e#i76u$g*6ry*_xk_-aq(c_rqd*!x4=k+ihw@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kappross.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
